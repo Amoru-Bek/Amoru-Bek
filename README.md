@@ -65,5 +65,9 @@ I welcome discussions about security research, collaboration opportunities, and 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Amrou-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2192017)
 [![Email](https://img.shields.io/badge/Email-amroubekhedda@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amroubekhedda@gmail.com)
 
+<p align="center">
+  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 > "The enemy knows the system." — Kerckhoffs's principle
 > *This fundamental security concept drives my approach to testing and fortifying systems.*
